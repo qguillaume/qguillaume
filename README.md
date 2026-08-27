@@ -1,44 +1,56 @@
-# 🚀 Guillaume | Fullstack Developer
+# Guillaume Quesnel | Développeur Full-Stack PHP / Symfony
 
-> "Turning complex logic into seamless digital experiences."
-
----
-
-### 🔭 _about_me
-
-I am a developer who bridges the gap between **atypical backgrounds** and **high-level technical execution**.
-
-My approach is focused on **scalability and clean code**. I don't just build websites; I design modular systems and engines that solve specific problems. I believe that a developer's best tool is not just their IDE, but their ability to plan, adapt, and navigate through evolving requirements.
+> Douze ans à concevoir, développer et mettre en production des applications web.
 
 ---
 
-### 🛠️ _stack
+## _à_propos
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/RESPONSIVE%20DESIGN-000000?style=for-the-badge&logo=responsive-design&logoColor=white)
-![Modular JS](https://img.shields.io/badge/MODULAR%20JS-44CC11?style=for-the-badge&logo=node.js&logoColor=white)
+Développeur web full-stack, spécialisé PHP et Symfony. J'ai travaillé sur des applications à forte charge métier : marketplace e-commerce, plateforme d'assurance, bornes de commande pour la distribution alimentaire.
 
----
+Je conçois, je développe et je déploie — jusqu'à l'administration du serveur. Ce qui m'intéresse, c'est le code qui tourne en production et qui tient dans la durée, pas la démo.
 
-### 📜 _curriculum
-
-**Technical Journey & Expertise :**
-
-* **Software Architecture :** Specialist in creating **unified engines**. My latest work involved refactoring multiple standalone applications into a single, high-performance modular system using dynamic ES6 imports.
-* **Problem Solving :** Expert at transforming large datasets and complex logic into intuitive, fast, and user-friendly interfaces.
-* **Background :** Leveraging a strong background in sales and administration to bring **business logic, customer-centricity, and rigorous organization** to every codebase I touch.
+Ressortissant français, mobile en Suisse romande, disponible immédiatement.
 
 ---
 
-### 🎯 _current_focus
+## _stack
 
-I am currently deepening my knowledge in **Backend Security** and **Payment Infrastructure Integration**. My goal is to build secure, monetization-ready applications with a "security-first" mindset.
+**Backend** — PHP 8 · Symfony · Laravel · SQL · MySQL · PostgreSQL
+
+**Infrastructure** — Docker · Nginx · Linux · OVH · Git
+
+**Frontend** — JavaScript · TypeScript · Vite · HTML5 · CSS3
 
 ---
 
-### 👋 _socials
+## _parcours
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quesnel.guillaume.j@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillaume-quesnel-a567352aa)
+**Applications personnelles en production**
+Plateforme de gestion photographique : Symfony 5.4, PHP 8, Docker, Nginx. Authentification et gestion fine des rôles, modération, contenus multilingues. Déploiement et administration d'un serveur OVH. Plus de 5 000 médias.
+
+**Expérience professionnelle**
+Bornes de commande pour les grossistes de Rungis · Plateforme d'assurance en partenariat avec Allianz · Marketplace fnac.com chez FNAC/Darty · CRM chez Neuros Assurance.
+
+**Travail en équipe**
+Participation à un projet collaboratif à trois développeurs, livré en production.
+
+---
+
+## _en_ce_moment
+
+Application d'apprentissage des langues : TypeScript, Vite, Supabase, intégration Stripe, tests automatisés.
+
+Reprise de l'allemand, en vue d'une installation en Suisse.
+
+---
+
+## _dépôts
+
+Mes dépôts sont **privés** — accès en lecture sur demande, avec plaisir.
+
+---
+
+## _contact
+
+[Email](mailto:VOTRE_EMAIL) · [LinkedIn](VOTRE_LIEN_LINKEDIN)
