@@ -53,4 +53,4 @@ Mes dépôts sont **privés** — accès en lecture sur demande, avec plaisir.
 
 ## _contact
 
-[Email](mailto:VOTRE_EMAIL) · [LinkedIn](VOTRE_LIEN_LINKEDIN)
+[Email](mailto:quesnel.guillaume.j@gmail.com) · [LinkedIn](edin.com/in/guillaume-quesnel-a567352aa/)
