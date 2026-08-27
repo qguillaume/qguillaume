@@ -26,13 +26,13 @@ Ressortissant français, mobile en Suisse romande, disponible immédiatement.
 
 ## _parcours
 
-**Applications personnelles en production**
+**Applications personnelles en production**  
 Plateforme de gestion photographique : Symfony 5.4, PHP 8, Docker, Nginx. Authentification et gestion fine des rôles, modération, contenus multilingues. Déploiement et administration d'un serveur OVH. Plus de 5 000 médias.
 
-**Expérience professionnelle**
+**Expérience professionnelle**  
 Bornes de commande pour les grossistes de Rungis · Plateforme d'assurance en partenariat avec Allianz · Marketplace fnac.com chez FNAC/Darty · CRM chez Neuros Assurance.
 
-**Travail en équipe**
+**Travail en équipe**  
 Participation à un projet collaboratif à trois développeurs, livré en production.
 
 ---
@@ -53,4 +53,4 @@ Mes dépôts sont **privés** — accès en lecture sur demande, avec plaisir.
 
 ## _contact
 
-[Email](mailto:quesnel.guillaume.j@gmail.com) · [LinkedIn](edin.com/in/guillaume-quesnel-a567352aa/)
+[Email](mailto:quesnel.guillaume.j@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guillaume-quesnel-a567352aa/)
