@@ -10,7 +10,7 @@ Développeur web full-stack, spécialisé PHP et Symfony. J'ai travaillé sur de
 
 Je conçois, je développe et je déploie — jusqu'à l'administration du serveur. Ce qui m'intéresse, c'est le code qui tourne en production et qui tient dans la durée, pas la démo.
 
-Ressortissant français, mobile en Suisse romande, disponible immédiatement.
+Disponible immédiatement, en remote ou sur site, en France comme en Suisse romande.
 
 ---
 
@@ -41,7 +41,7 @@ Participation à un projet collaboratif à trois développeurs, livré en produc
 
 Application d'apprentissage des langues : TypeScript, Vite, Supabase, intégration Stripe, tests automatisés.
 
-Reprise de l'allemand, en vue d'une installation en Suisse.
+Reprise de l'allemand.
 
 ---
 
